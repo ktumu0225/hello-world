@@ -1,2 +1,2 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on Kubernetes Rollout Strategy Now </h2>
+<h2> Deploying on Kubernetes Rollout Strategy Now</h2>
